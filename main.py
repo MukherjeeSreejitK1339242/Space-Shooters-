@@ -3,7 +3,7 @@ num = input("Would you like to play space shooters:")
 
 if num == "yes" or "Yes" or "YES":
     print("""Welcome to Space Shooters
-            Your lives and level are loacated at the top
+            Your lives and level are located at the top
             Your healthbar is under your ship
             To move use the arrow keys or wasd
             To Shoot use space
