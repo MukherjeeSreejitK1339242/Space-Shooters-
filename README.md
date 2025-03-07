@@ -1,1 +1,3 @@
 # Space-Shooters-
+
+My take on the classic space shooters game. You start off with 50 ammo and each level you are given the option to spin a wheel from which you may get the positive or negative side of ammo, ship speed, laser speed, lives. Your spaceship has a given healthbar and every time the healthbar diminishes or an enemy crosses to your side you lose a life. Additionally power up boxes may grant the same power/debuffs excluding ammo. If your ammo is ever negative it defaults to 25. Finally you are able to trade in 500 ammo for an extra life using the l button. Use WASD to move and Space to shoot, as well as p to pause.
