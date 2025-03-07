@@ -21,6 +21,8 @@ SPEED_POWERUP = pygame.image.load(os.path.join("assets", "speed_powerup.png"))
 EXPLOSION = pygame.image.load(os.path.join("assets", "explosion.png"))
 clock = pygame.time.Clock()
 
+#add in bomb sequence every 5 rounds, add in bomb weapon on player ship, shield powerup
+
 class Laser:
     def __init__(self, x, y, img):
         self.x = x
